@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: ScriptableObjects
+  m_EditorClassIdentifier: 
+  m_GroupName: ScriptableObjects
+  m_GUID: 8e7f35b0da4a6334683b9ef1bbc809ed
+  m_SerializeEntries:
+  - m_GUID: 36a47c7a8a5c07c4a8d58cee9f379ca0
+    m_Address: Assets/ScriptableObjects/MenuData/PauseMenuData.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 5be0b100523ebc148ae4f077bd008fd2, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: e970443a449b5e448adf90952187774e, type: 2}
+    - {fileID: 11400000, guid: 3ee4d3c5fc40b374c9f73699b5c9cb45, type: 2}

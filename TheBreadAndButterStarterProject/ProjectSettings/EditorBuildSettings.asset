@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Content/Scenes/Initialization.unity
+    guid: d846efe164d49cc48a09aaa01cf7383b
+  - enabled: 0
+    path: Assets/Deprecated/Deprecated 2/MapSceneSnow (deprecated).unity
+    guid: a4d892275f778194dbfcf2a550436746
+  - enabled: 0
+    path: Assets/Deprecated/Deprecated 2/MapSceneScarlet (deprecated).unity
+    guid: eb912e25611c65a48be060a607fdde82
+  - enabled: 0
+    path: Assets/Deprecated/Deprecated 2/MapSceneForest (deprecated).unity
+    guid: af04c7d76a9343348aeac7c055a3c821
+  - enabled: 0
+    path: Assets/Content/Scenes/TitleScreenScene.unity
+    guid: fe4c84bd5894e6a42b2bacda639d25f3
+  - enabled: 0
+    path: Assets/Content/Scenes/CoreSystemScene.unity
+    guid: 1f55351892fd12b40be881bb8b465ef2
+  - enabled: 0
+    path: Assets/_Main/Scenes/HubWorldScene.unity
+    guid: 803fc51146ceb4345811536b8006e13c
+  - enabled: 0
+    path: Assets/_Main/Scenes/DiceRollMenuScene.unity
+    guid: b042337a14746ba479bfee78dd626bc6
+  - enabled: 0
+    path: Assets/Content/Scenes/GameplayScene.unity
+    guid: ace0f109b01b9504b8ec135f08952bfb
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 016597aced8da594dbcced0a90f729b0, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: ee642266b8ca5114da8ed5cd1a231b55, type: 2}
+  m_UseUCBPForAssetBundles: 0

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d873d13c0f686a447a485ba51a90b74e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - OnInputDeviceChange: {fileID: 11400000, guid: 0316bad3ca6727a40ad589edff367f08, type: 2}
+  - ToShowOnKeyboard: {instanceID: 0}
+  - ToShowOnGamepad: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

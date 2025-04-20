@@ -1,0 +1,574 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_GUID: afde5fba8738cc2478a2c592cf05c0c6
+  m_SerializeEntries:
+  - m_GUID: 0161d805a3764c089bef00bfe00793f5
+    m_Address: Fonts & Materials/Oswald Bold SDF
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0232435ac91ced944a08289bd7fa7976
+    m_Address: Assets/Sprites/UI/simple-white-square.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 024d46ab0a7dcef4fb9a65ae3777f19a
+    m_Address: Assets/Materials/SpriteEmissiveOutlineWhite2.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0406db5a14f94604a8c57ccfbc9f3b46
+    m_Address: Packages/com.unity.render-pipelines.universal/Shaders/Particles/ParticlesUnlit.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 042ebf477267f1647947e907f0d8bc90
+    m_Address: Assets/Materials/BasicEmissiveShader.shadergraph
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c12efee2915954419fca1f0cd436297
+    m_Address: Assets/Fonts/Round9x13 SDF Outline Black.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0cbae0fb97ffa314e97befa6113b2c48
+    m_Address: Assets/Fonts/PixelAE-Regular.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e15927a3d2d637459a1a233c78cc8ae
+    m_Address: Assets/Sprites/VFX/white-circle-totem-area-outline.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1012121d3c68f0148ad48d1808743483
+    m_Address: Assets/Fonts/PixelAE-Regular SDF.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 13c02b14c4d048fa9653293d54f6e0e1
+    m_Address: Packages/com.unity.render-pipelines.universal/Shaders/2D/Sprite-Unlit-Default.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18c0a6b51b025624488868b5cf2cbb14
+    m_Address: Assets/ScriptableObjects/MenuData/_ReportBugMenuData.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c6f7ec85c2fec54383710c3e439af47
+    m_Address: Assets/Sprites/UI/Icons/star.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 202248a029711fe49b85c80240ca6535
+    m_Address: Assets/Fonts/PixelAE-Bold SDF.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 211f2046492c7b74398133cf81aaa32f
+    m_Address: Assets/Fonts/undertale-8bitoperator_jve SDF Outlined.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2453ec37d6caa98488b2858ad8954d3a
+    m_Address: Assets/Sprites/UI/white_border_dashed.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 24e6d33eabd32314f929844be91fbd2b
+    m_Address: Assets/Fonts/undertale-8bitoperator_jve SDF.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ba2819ff9abf39439ddf4f9d30e9c44
+    m_Address: Assets/Fonts/nb-pixel-font-bundle/AtariGames SDF.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c2ecfc81b81ab446b5b6f58768d58ca
+    m_Address: Assets/_Main/Sprites/line.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e108d41db932ce4a8718a3b52b069f0
+    m_Address: Assets/Fonts/DarkSoulsYouDied-OptimusPrinceps SDF 1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 325defe10bada624dadd12132afa3eec
+    m_Address: Assets/_Main/Sprites/UI/triangle.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3297bdf2796debf46b591258a0a2a760
+    m_Address: Assets/Audio/Sound Effects/ui-pack/African3.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 343b9f94fcb2f0d4e95eb6d7fa60d60c
+    m_Address: Assets/ScriptableObjects/MenuData/_PauseMenuPrefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36e335017ad71d54fbb10842863188ae
+    m_Address: Packages/com.unity.render-pipelines.core/Runtime/RenderPipelineResources/FallbackShader.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3cd1c49848d11334284c13f1d72427cf
+    m_Address: Assets/Fonts/Undertale-Menu-Determination-DTM-Sans Outlined.otf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 41cced3b83b05ba4cb08ab2ff9943df1
+    m_Address: Assets/Fonts/Scoreboard9x13 SDF Outlined.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4794e7f50f0c49d449b43f5a60055729
+    m_Address: Assets/Scripts/_Menus/MenuPause/GamepadOutline.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 492a8a23b09432c4783be26157e352cf
+    m_Address: Assets/Sprites/UI/rectangle-distorted-flipped.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 49480ea1e2f93c74f87f69d31b1bf106
+    m_Address: Assets/Fonts/Mini3x5 SDF.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4beb055f07aaff244873dec698d0363e
+    m_Address: Assets/ImportedPackages/TextMesh Pro/Examples & Extras/Fonts/Roboto-Bold.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ddbf9419c34e5942bad7e64ab510e79
+    m_Address: Assets/Fonts/Round9x13.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e1cffba806cabf45ae32fad6957c162
+    m_Address: Assets/Fonts/ARIAL SDF.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f08c60aae5260340acf2c5cc6c93a29
+    m_Address: Assets/Fonts/Persona5-Ransom-Expose-Regular.otf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f3e8287c56023849bdc5dc7fc1f3a04
+    m_Address: Assets/Audio/Sound Effects/ui-pack/Modern13.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4fcfe031d295ff641a63a0b58491b66b
+    m_Address: Assets/Audio/Sound Effects/ui-pack/Wood Block3.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5115a52dbf6bd96479e4968b5c41cf75
+    m_Address: Assets/Sprites/UI/dashed_border_32.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5302535af1044152a457ed104f1f4b91
+    m_Address: Fonts & Materials/Roboto-Bold SDF
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 57c02384dbb95a541aeb83c3cbd34390
+    m_Address: Assets/Audio/Sound Effects/ui-pack/Retro4.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 58be707ac8a7d8047b60258e4fadf1c6
+    m_Address: Assets/Sprites/UI/Frames/frames piiiXL 32.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5941aed8f14546a4da9d5e3909f190b5
+    m_Address: Assets/Fonts/Scoreboard9x13.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5aa059d8256c0da43a647716f5589b60
+    m_Address: Assets/ScriptableObjects/SceneData/TitleScreenSceneData.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5be88a6548ca04c4cbb78ddc21eb679b
+    m_Address: Assets/Fonts/DarkSoulsYouDied-OptimusPrinceps.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e4f559721be98645a00dcd326e96102
+    m_Address: Assets/Art/Icons/floppy-disk.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6078b943952ba3c4eb55f108eff57c6b
+    m_Address: Assets/Sprites/UI/square tilted.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 650dd9526735d5b46b79224bc6e94025
+    m_Address: Packages/com.unity.render-pipelines.universal/Shaders/Unlit.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 651ee6e6398696f45a428c3dda5b007e
+    m_Address: Assets/Fonts/nb-pixel-font-bundle/KarenFat SDF.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 659254414cf73b847babe38211fcfcb7
+    m_Address: Assets/Materials/PhysicsMaterial2DZeroFriction.physicsMaterial2D
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6592a70cea9968948bcf396006149901
+    m_Address: Assets/Fonts/Undertale-Menu-Determination-DTM-Sans SDF.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 68e6db2ebdc24f95958faec2be5558d6
+    m_Address: Assets/ImportedPackages/TextMesh Pro/Shaders/TMP_SDF.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6aacda2371e8ce644a30147183c63d84
+    m_Address: Assets/Sprites/UI/tile-reference-100px-dashed.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d74609593ea3514a875f21d7e222f12
+    m_Address: Assets/Fonts/nb-pixel-font-bundle/TinyUnicode.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6db30759b28df7b45a15da1c304744c9
+    m_Address: Assets/Rendering/Sprite-Lit-Default.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6eea86b53531de44a984b8deca6939d2
+    m_Address: Assets/Fonts/Round9x13 SDF.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72257b3cd9bdd8c46ad9aafc52a84d46
+    m_Address: Assets/Audio/Sound Effects/ui-pack/Retro1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74eae80beb2b7a943b4e8727cf5a23d7
+    m_Address: Assets/Fonts/Blocky5x7 SDF.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7915a43c80b70124e9dd10878ea249e4
+    m_Address: Assets/Audio/Sound Effects/ui-pack/African4.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a006a1421850504a8132ebbb9e66833
+    m_Address: Assets/Sprites/UI/Input/MV Icons Letter Buttons - ALL.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7cbffe50f6976c546bff2433dc1ddf07
+    m_Address: Assets/Scripts/Skills/VisualEffectsPrefab_Base.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 812b31bb82a97c44d9b8e8a350084c28
+    m_Address: Assets/Fonts/ARIAL.TTF
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8413a32c8633ec74ebeae45841f14c85
+    m_Address: Assets/Sprites/UI/menu backgrounds/UI_Banners&Headers.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8990457010b25ea49b96a6c9b79712f6
+    m_Address: Assets/Fonts/Scoreboard9x13 SDF.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8a2b9e2a607dd2143b58c44bc32410b4
+    m_Address: Assets/ImportedPackages/TextMesh Pro/Examples & Extras/Fonts/Electronic
+      Highway Sign.TTF
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8a89fa14b10d46a99122fd4f73fca9a2
+    m_Address: Fonts & Materials/Anton SDF
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8ad557136c414614a81f3ab4517acb00
+    m_Address: Assets/Sprites/UI/rectangle-distorted.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e27c2bd2f6a7204b89f1210ee64e126
+    m_Address: Assets/Materials/BasicEmissiveMaterial.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f586378b4e144a9851e7b34d9b748ee
+    m_Address: Fonts & Materials/LiberationSans SDF
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f66b294bb7a69b4891a55ba06df5e2a
+    m_Address: Assets/Sprites/UI/ribbon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 93afa806ebe3341478b8f0aaac5b3cd7
+    m_Address: Assets/Fonts/Mini3x5 SDF Outlined Thin.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 971ac11c289cd8d40b46bf6efcc12db3
+    m_Address: Assets/Scripts/_Menus/MenuConfig/_ConfigMenuPrefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 997a43b767814dd0a7642ec9b78cba41
+    m_Address: Assets/ImportedPackages/TextMesh Pro/Examples & Extras/Fonts/Anton.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a9c922eaa9e64246bf59f71959bfa15
+    m_Address: Assets/Sprites/UI/white-arrow.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9daf30b11ce01584ba810f79165acbd6
+    m_Address: Assets/Settings/SettingsData.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9dfc825aed78fcd4ba02077103263b40
+    m_Address: Packages/com.unity.render-pipelines.universal/Runtime/Materials/Sprite-Unlit-Default.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a804728f3096c8e4480bcf26c2f77f7e
+    m_Address: Assets/Fonts/Undertale-Dialog-Determination-DTM-Mono SDF.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a97c105638bdf8b4a8650670310a4cd3
+    m_Address: Packages/com.unity.render-pipelines.universal/Runtime/Materials/Sprite-Lit-Default.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ac12c17f65d36ea4aa5c3a39346fce86
+    m_Address: Assets/ScriptableObjects/SceneData/CoreSystemSceneData.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: acb202b6f22259742a3ab11419f8796a
+    m_Address: Assets/Sprites/UI/Input/mouse-left-click-32.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ace0f109b01b9504b8ec135f08952bfb
+    m_Address: Assets/Scenes/TiledWorldScene.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae64f5aadac7e3849ad4969589a089e8
+    m_Address: Assets/Audio/Sound Effects/ui-pack/Retro3.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b062841b8651ea340a4fe8666b458b63
+    m_Address: Assets/Audio/Sound Effects/ui-pack/Wood Block1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b477308ae487d244fa5933f319cf321b
+    m_Address: Assets/Sprites/UI/Icons/trash-can.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b61d0a970460f3c4f94790508971c0d5
+    m_Address: Assets/Fonts/Persona5-Ransom-Expose-Regular SDF.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bdd8c0dc006c55a4eb66596dda8a6594
+    m_Address: Assets/Scripts/_Menus/MenuPause/keyboard-outline-white-v2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bf5c15c2c9f54b3488a4d22ce9835790
+    m_Address: Assets/Fonts/nb-pixel-font-bundle/MMXSNES.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c5b8a8aff0334e54d81bbdede0c084cd
+    m_Address: Assets/Fonts/Mini3x5.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c6b0c0709bcab5946aeacaf0390c4382
+    m_Address: Assets/ScriptableObjects/SceneData/TiledWorldSceneData.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c9f6d0e7bc8541498c9a4799ba184ede
+    m_Address: Assets/ImportedPackages/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cc4027adb2b29924793eb811b64d2623
+    m_Address: Assets/Scripts/_Menus/MenuSaveSlots/SaveSlotUI.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ce55fb4b0c6f0c44ab9debaefd561c21
+    m_Address: Assets/Fonts/undertale-8bitoperator_jve.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d3c4e33ea4b56f64b8571d9a9cab30b5
+    m_Address: Assets/Fonts/nb-pixel-font-bundle/Habbo SDF.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d46e4fb13da7d6343b7939f862054711
+    m_Address: Assets/Fonts/PixelAE-Bold.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: db2930434603c55409167563faf90dc8
+    m_Address: Assets/ScriptableObjects/MenuData/_ReportBugMenuPrefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dc36b3fdc14f47ebb36fd484a67e268a
+    m_Address: Fonts & Materials/Electronic Highway Sign SDF
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dd7a27239cb61c743b3b4ba7ac0252b8
+    m_Address: Assets/Content/VFX/VFX_DustBurstParticles/SquareDustParticlesPrefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df154e52fe6c16c4c8da17648a3290e5
+    m_Address: Assets/Sprites/UI/WhiteBordersOnly.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e260cfa7296ee7642b167f1eb5be5023
+    m_Address: Packages/com.unity.render-pipelines.universal/Shaders/2D/Sprite-Lit-Default.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3265ab4bf004d28a9537516768c1c75
+    m_Address: Assets/ImportedPackages/TextMesh Pro/Fonts/LiberationSans.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3949b0e3e873194b9479046b9f68d61
+    m_Address: Assets/Fonts/Planes_ValMore SDF.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e6e9a19c3678ded42a3bc431ebef7dbd
+    m_Address: Packages/com.unity.render-pipelines.universal/Shaders/Utils/FallbackError.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec75943712e599c4fae88cde1897a4db
+    m_Address: Assets/Sprites/UI/white-arrow-left.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ed57aa595ad07d64c94757857861d226
+    m_Address: Assets/Sprites/VFX/blank-pixel.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f07261d0711fa6b49aeaab621e5a0921
+    m_Address: Assets/Fonts/nb-pixel-font-bundle/TinyUnicode SDF.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f1b7172ce96f4bc43854e7f085bab396
+    m_Address: Assets/Fonts/Undertale-Menu-Determination-DTM-Sans Outlined SDF.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f1cd0d1c460244b4487e2d12b847c2b7
+    m_Address: Assets/Fonts/Blocky5x7.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f27c36cf8d20aa541bd32691c1d7c7ad
+    m_Address: Assets/Audio/Sound Effects/ui-pack/Retro6.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f79d566857edae742a40f2ea638b610b
+    m_Address: Assets/Audio/Sound Effects/ui-pack/African2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd50d797709f809458f0d8599337ac57
+    m_Address: Assets/Audio/MainMixer.mixer
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd8e6a307fd367e44b2399f3d4444925
+    m_Address: Assets/Sprites/VFX/white-circle.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fdb4810270897c6499afa36bacb9030a
+    m_Address: Assets/Fonts/nb-pixel-font-bundle/Zicons.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe393ace9b354375a9cb14cdbbc28be4
+    m_Address: Assets/ImportedPackages/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff9711a523516e24a8f73785326aeedd
+    m_Address: Assets/Fonts/nb-pixel-font-bundle/Zicons SDF.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 5be0b100523ebc148ae4f077bd008fd2, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c2b9cc6aad11c944a92d655700dadd23, type: 2}
+    - {fileID: 11400000, guid: 50e74bee47dd05b44bf47797c876cd9a, type: 2}
